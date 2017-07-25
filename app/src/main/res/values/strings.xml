@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Baskin-Robbins</string>
+    <string name="twitter_baskinrobbins">baskinrobbins</string>
+    <string name="snap_baskinrobbins">baskinrobbins</string>
+    <string name="instagram_baskinrobbins">baskinrobbins_ksa</string>
+    <string name="location_baskinrobins">riyadh_rabiea</string>
+    <string name="about_us">about us</string>
+    <string name="contact_us">contact us</string>
+    <string name="aboutustext">When you think of ice cream, Baskin-Robbins® is the brand that immediately comes to mind.</string>
+    <string name="welcome">Welcome to the world of Baskin-Robbins</string>
+</resources>
